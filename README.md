@@ -1,5 +1,7 @@
 # 🎨 Seletor de Cores
 
+https://blackthornethan23.github.io/Seletor-de-cores/
+
 Um aplicativo web interativo que gera cores aleatórias no formato RGB dinamicamente. O projeto conta com um design moderno com fundo em degradê, efeitos visuais ao passar o mouse e uma interface centralizada e direta ao ponto.
 
 ---
