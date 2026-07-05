@@ -28,4 +28,4 @@ Como este é um projeto puramente front-end estruturado em arquivos locais, voc�
 
 1. Faça o clone ou o download deste repositório:
    bash
-   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/BlackthornEthan23/Seletor-de-cores.git)
+   git clone https://github.com/BlackthornEthan23/Seletor-de-cores/tree/main
